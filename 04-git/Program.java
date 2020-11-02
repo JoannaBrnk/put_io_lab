@@ -61,5 +61,8 @@ public class Dog
     {
         Dog tuffy = new Dog("tuffy","papillon", 5, "white", "Harry");
         System.out.println(tuffy.toString());
+
+	Dog coffee = new Dog("coffee","poodle", 2, "black", "Margaret");
+        System.out.println(tuffy.toString());
     }
 }
