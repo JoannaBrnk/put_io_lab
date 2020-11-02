@@ -6,10 +6,11 @@ public class Dog
     int age;
     String color;
     String owner_name;
- 
+    String phone_number;
+
     // Constructor Declaration of Class
     public Dog(String name, String breed,
-                   int age, String color, String owner_name)
+                   int age, String color, String owner_name, String phone_number)
     {
         this.name = name;
         this.breed = breed;
