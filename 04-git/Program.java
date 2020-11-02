@@ -1,3 +1,4 @@
+// class Dog
 public class Dog
 {
     // Instance Variables
@@ -49,21 +50,28 @@ public class Dog
         return owner_name;
     }
 
+    // method 6
+    public String getPhone_number()
+    {
+        return phone_number;
+    }
+
     @Override
     public String toString()
     {
         return("Hi my name is "+ this.getName() +
                ".\nMy breed,age and color are " +
                this.getBreed()+"," + this.getAge() +
-               ","+ this.getColor() + "I love my owner" + this.getOwner_name());
+               ","+ this.getColor() + "I love my owner " + this.getOwner_name() + 
+	       "If I get lost call " + this.getPhone_number);
     }
  
     public static void main(String[] args)
     {
-        Dog tuffy = new Dog("tuffy","papillon", 5, "white", "Harry");
+        Dog tuffy = new Dog("tuffy","papillon", 5, "white", "Harry", "123456789");
         System.out.println(tuffy.toString());
 
-	Dog coffee = new Dog("coffee","poodle", 2, "black", "Margaret");
+	Dog coffee = new Dog("coffee","poodle", 2, "black", "Margaret", "987654321");
         System.out.println(tuffy.toString());
     }
 }
