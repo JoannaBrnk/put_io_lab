@@ -1,0 +1,87 @@
+[33mcommit 8f84f83fd5b287de75890f1653522e1388cf3cb1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 17:05:58 2020 +0100
+
+    add elements from stash
+
+[33mcommit e23128baba8f6b2cd52be4598e88146794ddcbaa[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 14:46:11 2020 +0100
+
+    add getPhone_number method
+
+[33mcommit 73656a7871c5b260db8658ef284a98f5b147bf29[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 14:43:58 2020 +0100
+
+    first change
+
+[33mcommit 0a0bf5994b5cd3c25f795ab66ba573874b87eafb[m
+Merge: 769ba88 5ce564e
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 14:30:50 2020 +0100
+
+    Merge branch 'main' of https://github.com/JoannaBrnk/put_io_lab into main
+
+[33mcommit 769ba888a126970c7e6c63c29ae627dcdeaacd80[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 14:27:24 2020 +0100
+
+    update README.md
+
+[33mcommit 5ce564e1c8ff0438ff046f4da5bbc48d630771e7[m
+Author: JoannaBrnk <43933949+JoannaBrnk@users.noreply.github.com>
+Date:   Mon Nov 2 14:25:37 2020 +0100
+
+    Update README.md
+
+[33mcommit 585741ee40236f2174d9ca547c9780841d1e96de[m
+Merge: 6319a2d 615fc29
+Author: JoannaBrnk <43933949+JoannaBrnk@users.noreply.github.com>
+Date:   Mon Nov 2 13:57:56 2020 +0100
+
+    Merge pull request #1 from JoannaBrnk/new-feature
+    
+    New feature
+
+[33mcommit 615fc295ee88310504434bdd0e0f706e1f8e404f[m[33m ([m[1;31morigin/new-feature[m[33m, [m[1;32mnew-feature[m[33m)[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 13:42:58 2020 +0100
+
+    add dog (coffee)
+
+[33mcommit 4840796b0ae8b16368a3180fdab323081274600c[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 13:39:25 2020 +0100
+
+    add getOwner_name method
+
+[33mcommit 3b0a0576ae16c004e420c93d3b3875921c8e640a[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 13:04:52 2020 +0100
+
+    update README.md
+
+[33mcommit 6319a2d90f1024e67ba3365b2eef96e39784aa84[m
+Author: JoannaBrnk <43933949+JoannaBrnk@users.noreply.github.com>
+Date:   Mon Nov 2 12:30:00 2020 +0100
+
+    Update README.md
+
+[33mcommit ad77530e2fd25ddf5f825f8e9d373e7309b349e7[m
+Author: Asia <joanna.brnk@gmail.com>
+Date:   Mon Nov 2 12:19:40 2020 +0100
+
+    add Dog class
+
+[33mcommit 157b876ce805b6ee3b00ca5a7425dd7fbe143ebb[m
+Author: JoannaBrnk <43933949+JoannaBrnk@users.noreply.github.com>
+Date:   Mon Nov 2 11:44:37 2020 +0100
+
+    Update README.md
+
+[33mcommit db668163cdc2362fbaac6a3be807a78846d7a2aa[m
+Author: JoannaBrnk <43933949+JoannaBrnk@users.noreply.github.com>
+Date:   Mon Nov 2 11:40:07 2020 +0100
+
+    Initial commit
